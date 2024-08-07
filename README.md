@@ -1,1 +1,1 @@
-This program change MAC adress on PC.
+This program changes the MAC address on the PC.
